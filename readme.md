@@ -2,7 +2,7 @@
 All the images we use in the spreadsheets for boss guides. 
 
 **Usage**
-Used internally for a raiding guild in world of warcraft. 
+<br>Used internally for a raiding guild in world of warcraft. 
 
 ## License
 

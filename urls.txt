@@ -1,0 +1,8 @@
+2. Carnage Images
+
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/2.Carnage/EXPORT/Carnage1.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/2.Carnage/EXPORT/Carnage2.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/2.Carnage/EXPORT/Carnage3.png", 4, 504, 884)
+
+
+
