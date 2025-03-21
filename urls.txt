@@ -12,3 +12,9 @@
 =IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/3.RikReverb/EXPORT/RikReverb5.png", 4, 504, 884)
 =IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/3.RikReverb/EXPORT/RikReverb6.png", 4, 504, 884)
 
+4. Stix
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/4.Stix/EXPORT/Stix1.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/4.Stix/EXPORT/Stix2.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/4.Stix/EXPORT/Stix3.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/4.Stix/EXPORT/Stix4.png", 4, 504, 884)
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/4.Stix/EXPORT/Stix5.png", 4, 504, 884)
