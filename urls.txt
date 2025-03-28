@@ -22,3 +22,4 @@
 5. Sprocket
 =IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/main/5.Sprocket/EXPORT/Sprocket1.png", 4, 504, 884)
 
+=IMAGE("https://raw.githubusercontent.com/Relts/TWW_S2_Undermined/onsComingSoon.png", 4, 504, 884)
